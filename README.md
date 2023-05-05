@@ -10,4 +10,4 @@ Projeto desenvolvido com React baseado no tutorial https://www.youtube.com/watch
 🔵 useRef; </br>
 
 ## Imagem da interface: 
-<img src="src\assets\screen.PNG" height=400 width=500>
+<img src="src\assets\screen.PNG" height=400 width=700>
